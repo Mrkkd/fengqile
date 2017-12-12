@@ -1,0 +1,966 @@
+{
+    "retcode": 0,
+    "retmsg": "ok",
+    "result_rows": [
+        {
+            "vip_amount": "-1",
+            "real_amount": "169",
+            "sku_tag": [
+                "2000dpi黑色",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201705190965740.html",
+            "recommend_flag": "2",
+            "amount": "169",
+            "sku_pic": [
+                "/product/M00/B8/79/hhoGAFk99nmAKGKYAAGRbT5hF8E078.jpg"
+            ],
+            "sku_num": "25",
+            "mon_pay": "8.94",
+            "sku_id": "MES201705190965740",
+            "product_info": "Razer雷蛇炼狱蝰蛇CF/LOL/H1Z1守望先锋绝地求生电竞有线游戏鼠标",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/B8/79/hhoGAFk99nmAKGKYAAGRbT5hF8E078_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "3799",
+            "sku_tag": [
+                "白色",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S20150817025162.html",
+            "recommend_flag": "2",
+            "amount": "3799",
+            "sku_pic": [
+                "/uploaded/product/image/20150817_863651810dac874a8b1d55.jpg"
+            ],
+            "sku_num": "1",
+            "mon_pay": "191.88",
+            "sku_id": "S20150817025162",
+            "product_info": "索尼（SONY） ILCE-6000L微单套机 （16-50mm镜头 a6000/α6000L）",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://static.fenqile.com/app/product/image/20150817_863651810dac874a8b1d55_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "35",
+            "sku_tag": [
+                "咖啡色",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201707221159672.html",
+            "recommend_flag": "2",
+            "amount": "35",
+            "sku_pic": [
+                "/product/M00/C8/20/hRoGAFly1xKAZ0mdAAFAIHmmKOs636.jpg"
+            ],
+            "sku_num": "500",
+            "mon_pay": "1.86",
+            "sku_id": "MES201707221159672",
+            "product_info": "奇美24孔复音C调成年人儿童口琴",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C8/20/hRoGAFly1xKAZ0mdAAFAIHmmKOs636_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "168",
+            "sku_tag": [
+                "中帮男款",
+                "40"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201708301295464.html",
+            "recommend_flag": "2",
+            "amount": "168",
+            "sku_pic": [
+                "/product/M00/C0/DF/hBoGAFmmMx2Aeed_AAWbrJUrU48242.jpg"
+            ],
+            "sku_num": "998",
+            "mon_pay": "8.89",
+            "sku_id": "MES201708301295464",
+            "product_info": "VISMIX维先生 大黄靴秋季男士马丁靴战狼2同款英伦短靴男鞋韩版高帮工装鞋军",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C0/DF/hBoGAFmmMx2Aeed_AAWbrJUrU48242_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "279",
+            "sku_tag": [
+                "纯铜貔貅254B",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201706271084627.html",
+            "recommend_flag": "2",
+            "amount": "279",
+            "sku_pic": [
+                "/product/M00/C5/9F/hRoGAFlSRiWAHahPAALdJ2r7Msc551.jpg"
+            ],
+            "sku_num": "437",
+            "mon_pay": "14.76",
+            "sku_id": "MES201706271084627",
+            "product_info": "芝宝ZIPPO打火机 貔貅-金色吉祥瑞兽五面雕刻国风原装正品防风火机 男士礼品",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C5/9F/hRoGAFlSRiWAHahPAALdJ2r7Msc551_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "2088",
+            "sku_tag": [
+                "8公斤智能洗护",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/S201707130582268.html",
+            "recommend_flag": "2",
+            "amount": "2088",
+            "sku_pic": [
+                "/product/M00/C7/4C/hRoGAFlnUcOAOUQIAAMpnDBU9d8739.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "70.53",
+            "sku_id": "S201707130582268",
+            "product_info": "【领券再减400+限时6期免息】美的（Midea）8公斤变频滚筒洗衣机 京东微联智能APP控制MG80-eco31WDX洗衣机",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C7/4C/hRoGAFlnUcOAOUQIAAMpnDBU9d8739_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "4899",
+            "sku_tag": [
+                "琥珀金",
+                "6G+128G"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201612160450079.html",
+            "recommend_flag": "2",
+            "amount": "4899",
+            "sku_pic": [
+                "/product/M00/28/BD/hRoGAFhT2oyAIvGKAACQNgRvHlg821.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "247.43",
+            "sku_id": "S201612160450079",
+            "product_info": "华为 Mate 9 Pro  移动联通电信4G手机 双卡双待",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/28/BD/hRoGAFhT2oyAIvGKAACQNgRvHlg821_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "1149",
+            "sku_tag": [
+                "27英寸（P2791VHE/BW HDMI）显示器",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201701110466520.html",
+            "recommend_flag": "2",
+            "amount": "1149",
+            "sku_pic": [
+                "/product/M00/30/1A/hhoGAFh2APyADZ4_AABDXaFAqoI963.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "38.82",
+            "sku_id": "S201701110466520",
+            "product_info": "【京东配送】AOC 1.6mm窄边框 PLS广视角爱眼不闪屏显示器",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/30/1A/hhoGAFh2APyADZ4_AABDXaFAqoI963_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "49",
+            "sku_tag": [
+                "60粒/瓶",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201701100647260.html",
+            "recommend_flag": "2",
+            "amount": "49",
+            "sku_pic": [
+                "/product/M00/32/C2/hRoGAFh06tOAQfIxAAPTtlRCOZs081.jpg"
+            ],
+            "sku_num": "200",
+            "mon_pay": "2.60",
+            "sku_id": "MES201701100647260",
+            "product_info": "【国内发货】BLACKMORES/澳佳宝 西芹菜籽50粒",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/32/C2/hRoGAFh06tOAQfIxAAPTtlRCOZs081_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "299",
+            "sku_tag": [
+                "MTP-1375L-1AVDF",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201611230514661.html",
+            "recommend_flag": "2",
+            "amount": "299",
+            "sku_pic": [
+                "/product/M00/1C/19/hhoGAFg1ZIKACpC9AAGI16FS2LU656.jpg"
+            ],
+            "sku_num": "10",
+            "mon_pay": "14.42",
+            "sku_id": "MES201611230514661",
+            "product_info": "卡西欧(CASIO)手表简约指针石英男表 MTP-1374D-1A/MTP-1375L-1A",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/1C/19/hhoGAFg1ZIKACpC9AAGI16FS2LU656_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "2792",
+            "real_amount": "3099",
+            "sku_tag": [
+                "452升风冷对开门",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/S201707200582614.html",
+            "recommend_flag": "2",
+            "amount": "3099",
+            "sku_pic": [
+                "/product/M00/BC/D7/hBoGAFlwV_eATg2OAAFd1eyG3BU126.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "104.68",
+            "sku_id": "S201707200582614",
+            "product_info": "【领券再减400+限时6期免息】海尔（Haier）452升风冷无霜对开门冰箱 纤薄设计 节能静音双循环BCD-452WDPF冰箱",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BC/D7/hBoGAFlwV_eATg2OAAFd1eyG3BU126_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "4488",
+            "sku_tag": [
+                "钻雕金",
+                "6G+128G"
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/S201703230512619.html",
+            "recommend_flag": "2",
+            "amount": "4488",
+            "sku_pic": [
+                "/product/M00/44/43/hhoGAFjTlZOAX5YGAADB4H0KanA018.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "176.08",
+            "sku_id": "S201703230512619",
+            "product_info": "华为 HUAWEI P10 Plus  移动联通电信4G手机 双卡双待",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/44/43/hhoGAFjTlZOAX5YGAADB4H0KanA018_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "45",
+            "sku_tag": [
+                "绿色",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201606160145004.html",
+            "recommend_flag": "2",
+            "amount": "45",
+            "sku_pic": [
+                "/product/M00/B7/CF/hBoGAFkvqNeAachVAALe91W6ppA382.jpg"
+            ],
+            "sku_num": "84",
+            "mon_pay": "2.38",
+            "sku_id": "MES201606160145004",
+            "product_info": "凯速 四轮家用静音轴承健腹轮健腹器腹肌轮（含地垫）",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/B7/CF/hBoGAFkvqNeAachVAALe91W6ppA382_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "165",
+            "sku_tag": [
+                "236-金龙",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201706281088015.html",
+            "recommend_flag": "2",
+            "amount": "165",
+            "sku_pic": [
+                "/product/M00/C2/C6/hhoGAFnBzSKABkJWAAefEO_u95g356.jpg"
+            ],
+            "sku_num": "51",
+            "mon_pay": "8.73",
+            "sku_id": "MES201706281088015",
+            "product_info": "芝宝ZIPPO打火机 黑裂漆-原装个性定制正品zippo防风火机 zippo打火机礼物",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C2/C6/hhoGAFnBzSKABkJWAAefEO_u95g356_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "149",
+            "sku_tag": [
+                "K1235",
+                "31码"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201604070048192.html",
+            "recommend_flag": "2",
+            "amount": "149",
+            "sku_pic": [
+                "/product/M00/CF/1C/hRoGAFnEad6AaEAKAAFmk40zXCM095.jpg"
+            ],
+            "sku_num": "20",
+            "mon_pay": "7.88",
+            "sku_id": "MES201604070048192",
+            "product_info": "Collegehome潮牌经典黑色赤耳潮男原色丹宁男士牛仔裤男直筒修身小脚潮裤",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/CF/1C/hRoGAFnEad6AaEAKAAFmk40zXCM095_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "370",
+            "sku_tag": [
+                "深蓝本色钢带蓝盘",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201701020630373.html",
+            "recommend_flag": "2",
+            "amount": "370",
+            "sku_pic": [
+                "/product/M00/2F/4D/hhoGAFhqBI2ARUjHAAI4ZB9mDJ0003.jpg"
+            ],
+            "sku_num": "226",
+            "mon_pay": "17.84",
+            "sku_id": "MES201701020630373",
+            "product_info": "宾格BINGER手表男表镂空多功能机械表男士腕表夜光防水",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/2F/4D/hhoGAFhqBI2ARUjHAAI4ZB9mDJ0003_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "999",
+            "sku_tag": [
+                "香槟金",
+                "32G"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201612220453806.html",
+            "recommend_flag": "2",
+            "amount": "999",
+            "sku_pic": [
+                "/product/M00/2E/C9/hBoGAFhbf9KAdCgoAABagwyg8RY605.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "50.46",
+            "sku_id": "S201612220453806",
+            "product_info": "魅族 魅蓝note5 移动联通电信4G手机 双卡双待",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/2E/C9/hBoGAFhbf9KAdCgoAABagwyg8RY605_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "12.9",
+            "sku_tag": [
+                "辣条200g/盒",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201710130588189.html",
+            "recommend_flag": "2",
+            "amount": "12.9",
+            "sku_pic": [
+                "/product/M00/D1/6A/hRoGAFngew6AUuLKAACz_7MrYbw104.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "0.69",
+            "sku_id": "S201710130588189",
+            "product_info": "【京东配送】三只松鼠休闲麻辣零食特产约辣辣条200g/盒",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/D1/6A/hRoGAFngew6AUuLKAACz_7MrYbw104_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "351",
+            "sku_tag": [
+                "23寸沙比利TUC-200B入门推荐",
+                "自定义"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201707201156361.html",
+            "recommend_flag": "2",
+            "amount": "351",
+            "sku_pic": [
+                "/product/M00/BC/4C/hhoGAFlwra6ASWUpAAEMXDeo5WM049.jpg"
+            ],
+            "sku_num": "999",
+            "mon_pay": "18.56",
+            "sku_id": "MES201707201156361",
+            "product_info": "汤姆 TOM ukulele尤克里里乌克丽丽夏威夷小吉他乐器升级款",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BC/4C/hhoGAFlwra6ASWUpAAEMXDeo5WM049_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "399",
+            "sku_tag": [
+                "（无压力）环绕加热 智能电饭煲",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/S201702130484941.html",
+            "recommend_flag": "2",
+            "amount": "399",
+            "sku_pic": [
+                "/product/M00/3C/DA/hBoGAFihjsWAKWmUAAAUKcoj_4s976.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "13.48",
+            "sku_id": "S201702130484941",
+            "product_info": "【京东配送】米家（MIJIA）小米智能电饭煲 米家IH电饭煲 电磁环绕加热 3L黄金容量 PFA粉体涂层",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/3C/DA/hBoGAFihjsWAKWmUAAAUKcoj_4s976_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "738",
+            "sku_tag": [
+                "",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201706280581371.html",
+            "recommend_flag": "2",
+            "amount": "738",
+            "sku_pic": [
+                "/product/M00/BA/24/hhoGAFlTGeqAFAzbAAB-RfjqgqE156.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "37.28",
+            "sku_id": "S201706280581371",
+            "product_info": "佳能（Canon）EF 50mm f/1.8 STM 标准定焦镜头",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BA/24/hhoGAFlTGeqAFAzbAAB-RfjqgqE156_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "158",
+            "sku_tag": [
+                "T-9171-101401黑色",
+                "XL"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201701160676636.html",
+            "recommend_flag": "2",
+            "amount": "158",
+            "sku_pic": [
+                "/product/M00/D3/36/hRoGAFnwqe6AQN5FAAOlTOu7BtA109.jpg"
+            ],
+            "sku_num": "150",
+            "mon_pay": "8.36",
+            "sku_id": "MES201701160676636",
+            "product_info": "lilbetter休闲裤 新款迷彩裤修身束脚裤潮流哈伦裤运动裤",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/D3/36/hRoGAFnwqe6AQN5FAAOlTOu7BtA109_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "1059",
+            "sku_tag": [
+                "YS1107/50 电动剃须刀",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/S20150806022397.html",
+            "recommend_flag": "2",
+            "amount": "1059",
+            "sku_pic": [
+                "/uploaded/product/image/20150806_348909784b81fcbec43c55.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "35.78",
+            "sku_id": "S20150806022397",
+            "product_info": "【领券减400；6期免息】【京东配送】飞利浦（PHILIPS）YS1107/50 电动剃须刀 剃须洁面二合一",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://static.fenqile.com/app/product/image/20150806_348909784b81fcbec43c55_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "67.2",
+            "sku_tag": [
+                "250ml*24盒 整箱",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201708210583955.html",
+            "recommend_flag": "2",
+            "amount": "67.2",
+            "sku_pic": [
+                "/product/M00/BF/D2/hBoGAFmapdCAcMr3AAB6DtQymZc854.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "3.56",
+            "sku_id": "S201708210583955",
+            "product_info": "维他奶 原味豆奶植物蛋白饮品 250ml*24盒 整箱",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BF/D2/hBoGAFmapdCAcMr3AAB6DtQymZc854_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "59",
+            "sku_tag": [
+                "控油清爽洗发水护发素265mlx2送替换装",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201702090734239.html",
+            "recommend_flag": "2",
+            "amount": "59",
+            "sku_pic": [
+                "/product/M00/C1/C1/hhoGAFm2JqaAOj6pAAQ9Tu90Euo820.jpg"
+            ],
+            "sku_num": "99",
+            "mon_pay": "3.12",
+            "sku_id": "MES201702090734239",
+            "product_info": "滋源无硅油无患子洗发水护发素套装265ml535ml洗头水套装小样随机发货",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C1/C1/hhoGAFm2JqaAOj6pAAQ9Tu90Euo820_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "99",
+            "sku_tag": [
+                "100粒",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201701100647226.html",
+            "recommend_flag": "2",
+            "amount": "99",
+            "sku_pic": [
+                "/product/M00/2F/DF/hBoGAFh027yAc2wgAAIf44goUZc517.jpg"
+            ],
+            "sku_num": "22",
+            "mon_pay": "5.24",
+            "sku_id": "MES201701100647226",
+            "product_info": "【国内发货】 Swisse睡眠片100粒",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/2F/DF/hBoGAFh027yAc2wgAAIf44goUZc517_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "5299",
+            "sku_tag": [
+                "18-55mm套机",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201703280515247.html",
+            "recommend_flag": "2",
+            "amount": "5299",
+            "sku_pic": [
+                "/product/M00/4D/7B/hRoGAFjZ7MmAMeWUAACKY_MnMpk707.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "182.14",
+            "sku_id": "S201703280515247",
+            "product_info": "佳能（Canon）EOS 800D 单反套机",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/4D/7B/hRoGAFjZ7MmAMeWUAACKY_MnMpk707_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "509",
+            "sku_tag": [
+                "",
+                "升级款A1C哑光原木色"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201706081015898.html",
+            "recommend_flag": "2",
+            "amount": "509",
+            "sku_pic": [
+                "/product/M00/BA/8E/hBoGAFlQsmqASPfUAADrC-zU7V8367.jpg"
+            ],
+            "sku_num": "9995",
+            "mon_pay": "26.92",
+            "sku_id": "MES201706081015898",
+            "product_info": "卡马kepma41寸初学入门民谣木吉他乐器吉它jita 升级款",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BA/8E/hBoGAFlQsmqASPfUAADrC-zU7V8367_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "148",
+            "real_amount": "168",
+            "sku_tag": [
+                "T-9173-114212黑色",
+                "S"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201708041203009.html",
+            "recommend_flag": "2",
+            "amount": "168",
+            "sku_pic": [
+                "/product/M00/CA/73/hRoGAFmUX7KAAIalAAQYFKnD0IQ672.jpg"
+            ],
+            "sku_num": "100",
+            "mon_pay": "8.89",
+            "sku_id": "MES201708041203009",
+            "product_info": "Lilbetter卫衣男 连帽套头上衣韩版休闲外套明星同款嘻哈男士卫衣",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/CA/73/hRoGAFmUX7KAAIalAAQYFKnD0IQ672_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "2369",
+            "sku_tag": [
+                "皮带白盘T063.617.16.037.00",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201605010081473.html",
+            "recommend_flag": "2",
+            "amount": "2369",
+            "sku_pic": [
+                "/product/M00/C6/93/hRoGAFld1PGAQ6KaAAI1ibbkZj0288.jpg"
+            ],
+            "sku_num": "208",
+            "mon_pay": "114.20",
+            "sku_id": "MES201605010081473",
+            "product_info": "【领券立减200元】天梭TISSOT手表俊雅石英皮带防水男表T063.617.16.037.00",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C6/93/hRoGAFld1PGAQ6KaAAI1ibbkZj0288_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "199",
+            "sku_tag": [
+                "",
+                "自定义"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201707201155428.html",
+            "recommend_flag": "2",
+            "amount": "199",
+            "sku_pic": [
+                "/product/M00/C7/EE/hRoGAFlwbHyAD7roAADGSWGe72Y050.jpg"
+            ],
+            "sku_num": "100",
+            "mon_pay": "9.60",
+            "sku_id": "MES201707201155428",
+            "product_info": "荣庆祥 镶石吊坠-梦想之翼（配盒仔链） 礼物 满减 满送",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C7/EE/hRoGAFlwbHyAD7roAADGSWGe72Y050_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "375",
+            "sku_tag": [
+                "VN000SJV63M",
+                "40"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201705220972364.html",
+            "recommend_flag": "2",
+            "amount": "375",
+            "sku_pic": [
+                "/product/M00/D2/3D/hRoGAFnoPHuAIbmXAAJqr3wetk0352.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "15.63",
+            "sku_id": "MES201705220972364",
+            "product_info": "Vans/范斯2017新款男鞋运动耐磨休闲鞋板鞋VN000SJV63M",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/D2/3D/hRoGAFnoPHuAIbmXAAJqr3wetk0352_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "158",
+            "sku_tag": [
+                "8只装",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201710021387816.html",
+            "recommend_flag": "2",
+            "amount": "158",
+            "sku_pic": [
+                "/product/M00/D0/41/hRoGAFnSJ-yAf0KnAAJ399WqjKY879.jpg"
+            ],
+            "sku_num": "9963",
+            "mon_pay": "8.36",
+            "sku_id": "MES201710021387816",
+            "product_info": "【买6送2 共8只】阳澄湖大闸蟹/螃蟹 公蟹2.5两3只 母蟹2.0两3只 6只装",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/D0/41/hRoGAFnSJ-yAf0KnAAJ399WqjKY879_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "899",
+            "sku_tag": [
+                "灰色",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201702130484472.html",
+            "recommend_flag": "2",
+            "amount": "899",
+            "sku_pic": [
+                "/product/M00/40/26/hRoGAFihTpGAaVlFAAA5Vqdfuso261.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "47.54",
+            "sku_id": "S201702130484472",
+            "product_info": "Beats X  蓝牙无线 入耳式耳机 带麦可通话",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/40/26/hRoGAFihTpGAaVlFAAA5Vqdfuso261_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "9899",
+            "sku_tag": [
+                "套餐二 16G内存/PCI-E 256G固态+1T",
+                ""
+            ],
+            "fq_num": 36,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/S201707190582586.html",
+            "recommend_flag": "2",
+            "amount": "9899",
+            "sku_pic": [
+                "/product/M00/BC/30/hhoGAFlvN5KAZZKqAAEd7FXrGJg886.jpg"
+            ],
+            "sku_num": "0",
+            "mon_pay": "334.37",
+            "sku_id": "S201707190582586",
+            "product_info": "机械师F117-S6 15.6英寸七代i7-7700HQ/GTX1060 6G独显游戏本笔记本电脑",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BC/30/hhoGAFlvN5KAZZKqAAEd7FXrGJg886_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "129",
+            "sku_tag": [
+                "120粒",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201701100647205.html",
+            "recommend_flag": "2",
+            "amount": "129",
+            "sku_pic": [
+                "/product/M00/2F/DF/hBoGAFh01hyAQHT2AALi-xaqOqI622.jpg"
+            ],
+            "sku_num": "11968",
+            "mon_pay": "6.83",
+            "sku_id": "MES201701100647205",
+            "product_info": "澳洲直邮 swisse护肝片120粒",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/2F/DF/hBoGAFh01hyAQHT2AALi-xaqOqI622_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "99",
+            "sku_tag": [
+                "黑色/花样B-男款",
+                "XL"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 0,
+            "url": "https://item.m.fenqile.com/MES201708281279155.html",
+            "recommend_flag": "2",
+            "amount": "99",
+            "sku_pic": [
+                "/product/M00/C0/85/hBoGAFmjzSOAVS7lAAEbOBTO9Ck581.jpg"
+            ],
+            "sku_num": "8",
+            "mon_pay": "5.24",
+            "sku_id": "MES201708281279155",
+            "product_info": "AIRTEX亚特户外情侣款弹力透气男女款长袖T恤秋冬运动休闲中国风 MT301",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C0/85/hBoGAFmjzSOAVS7lAAEbOBTO9Ck581_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "278",
+            "sku_tag": [
+                "T-9173-125806黑色",
+                "XXL"
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201708221257933.html",
+            "recommend_flag": "2",
+            "amount": "278",
+            "sku_pic": [
+                "/product/M00/C2/BC/hBoGAFm4_nGAQKPNAAPEZV6Z1Ig815.jpg"
+            ],
+            "sku_num": "100",
+            "mon_pay": "14.70",
+            "sku_id": "MES201708221257933",
+            "product_info": "Lilbetter外套男 秋季嘻哈连帽外衣潮流帅气褂子新款修身男夹克",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/C2/BC/hBoGAFm4_nGAQKPNAAPEZV6Z1Ig815_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": "-1",
+            "real_amount": "99",
+            "sku_tag": [
+                "205",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201706271084616.html",
+            "recommend_flag": "2",
+            "amount": "99",
+            "sku_pic": [
+                "/product/M00/BB/77/hhoGAFll3buALBg7AAPzZPrvlgc337.jpg"
+            ],
+            "sku_num": "92",
+            "mon_pay": "5.24",
+            "sku_id": "MES201706271084616",
+            "product_info": "芝宝ZIPPO打火机 磨砂雕刻原装正品zippo防风煤油火机 定制zippo刻字火机",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/BB/77/hhoGAFll3buALBg7AAPzZPrvlgc337_216x216.jpg",
+            "fe_is_self": 0
+        },
+        {
+            "vip_amount": -1,
+            "real_amount": "109",
+            "sku_tag": [
+                "50ml",
+                ""
+            ],
+            "fq_num": 24,
+            "is_active_fee_free_flag": 1,
+            "url": "https://item.m.fenqile.com/MES201705050931620.html",
+            "recommend_flag": "2",
+            "amount": "109",
+            "sku_pic": [
+                "/product/M00/D0/4A/hRoGAFnUUZyAMPnhAALbYC2ihBY499.jpg"
+            ],
+            "sku_num": "50",
+            "mon_pay": "5.77",
+            "sku_id": "MES201705050931620",
+            "product_info": "欧莱雅 男士水能保湿滋润乳50ml",
+            "h5_enable": 0,
+            "vip_icon": "http://cimg1.fenqile.com/ibanner/M00/01/4B/wicJAFlL2eeATlxKAAAD0MJQ6ko659.png",
+            "fe_sku_pic": "https://cimgs1.fenqile.com/product/M00/D0/4A/hRoGAFnUUZyAMPnhAALbYC2ihBY499_216x216.jpg",
+            "fe_is_self": 0
+        }
+    ]
+}
